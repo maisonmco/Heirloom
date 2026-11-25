@@ -6,6 +6,9 @@
     "start": "node heirloom-all.js"
   },
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "helmet": "^7.1.0",
+    "better-sqlite3": "^11.5.0",
+    "stripe": "^17.3.0"
   }
 }
