@@ -1,0 +1,8 @@
+{
+"name": "heirloom",
+"version": "1.0.0",
+"main": "heirloom-all.js",
+"scripts": {
+"start": "node heirloom-all.js"
+}
+}
