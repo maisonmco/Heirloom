@@ -1,18 +1,8 @@
 {
-  "name": "heirloom",
-  "version": "1.0.0",
-  "private": true,
-  "main": "heirloom-all.js",
-  "scripts": {
-    "start": "node heirloom-all.js"
-  },
-  "engines": {
-    "node": ">=20"
-  },
-  "dependencies": {
-    "better-sqlite3": "^11.0.0",
-    "express": "^4.19.2",
-    "helmet": "^7.1.0",
-    "stripe": "^16.0.0"
-  }
+ "name": "heirloom",
+ "version": "1.0.0",
+ "main": "heirloom-all.js",
+ "scripts": {
+ "start": "node heirloom-all.js"
+ }
 }
